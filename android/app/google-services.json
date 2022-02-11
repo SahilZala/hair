@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "680467436955",
+    "project_id": "hair-app-9da6e",
+    "storage_bucket": "hair-app-9da6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680467436955:android:4125a8a5de3faa60f8bd3e",
+        "android_client_info": {
+          "package_name": "com.krash.hair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680467436955-6vbv37ui09qpkkps1n7rccs5u5bjsa9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krash.hair",
+            "certificate_hash": "0b76d18809c340f800d44173722921d491db752a"
+          }
+        },
+        {
+          "client_id": "680467436955-c7h2utufucalv61kgrqjbko0vo1d206f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krash.hair",
+            "certificate_hash": "10c28fdf529c62f340ac35e88b3d5e90e8bae9fa"
+          }
+        },
+        {
+          "client_id": "680467436955-qo3kch4a9q5deh9t73drhntkujdj82bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krash.hair",
+            "certificate_hash": "c08432196ea15c4693ea6784ab1395aa6a367afe"
+          }
+        },
+        {
+          "client_id": "680467436955-s3b27rfbo2sh4s3stq6hmcqc2l40frhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaMo2ieMUUTnPYEfTdLWgI8oZYAgp4uJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680467436955-s3b27rfbo2sh4s3stq6hmcqc2l40frhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680467436955:android:f730f6293d936140f8bd3e",
+        "android_client_info": {
+          "package_name": "h.hairapp.llp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680467436955-12lsilcf0oo6lcj1tmmq9c1t7s3ld1oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "h.hairapp.llp",
+            "certificate_hash": "c08432196ea15c4693ea6784ab1395aa6a367afe"
+          }
+        },
+        {
+          "client_id": "680467436955-f5v2iktavnm3kps3vpsh2dpddr2hcolq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "h.hairapp.llp",
+            "certificate_hash": "10c28fdf529c62f340ac35e88b3d5e90e8bae9fa"
+          }
+        },
+        {
+          "client_id": "680467436955-v1ohalt9itt5od27c4p4rfjkvo8qkd3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "h.hairapp.llp",
+            "certificate_hash": "0b76d18809c340f800d44173722921d491db752a"
+          }
+        },
+        {
+          "client_id": "680467436955-s3b27rfbo2sh4s3stq6hmcqc2l40frhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaMo2ieMUUTnPYEfTdLWgI8oZYAgp4uJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680467436955-s3b27rfbo2sh4s3stq6hmcqc2l40frhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
